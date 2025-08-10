@@ -81,11 +81,4 @@ Time 2700: Input=498, Output=470
 
 ---
 
-## 📜 License
-This project is released under the MIT License – see [LICENSE](LICENSE) for details.
 
----
-
-## 🙌 Acknowledgements
-- Based on the dual-stage noise removal methodology described in the provided research paper.
-- Thanks to the open-source Verilog toolchain community.
